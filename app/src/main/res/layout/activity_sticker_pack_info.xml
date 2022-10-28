@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/infoPageBackgroundColor"
+    android:orientation="vertical"
+    android:paddingTop="8dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:color/white"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/tray_icon"
+            style="@style/InfoButtonStyle"
+            android:clickable="false"
+            android:text="@string/info_screen_tray_icon"
+            android:textColor="#b9b9b9" />
+
+        <TextView
+            android:id="@+id/view_webpage"
+            style="@style/InfoButtonStyle"
+            android:drawableStart="@drawable/sticker_3rdparty_web"
+            android:drawableLeft="@drawable/sticker_3rdparty_web"
+            android:text="@string/view_webpage"
+            android:textColor="#b9b9b9" />
+
+        <TextView
+            android:id="@+id/send_email"
+            style="@style/InfoButtonStyle"
+            android:drawableStart="@drawable/sticker_3rdparty_email"
+            android:drawableLeft="@drawable/sticker_3rdparty_email"
+            android:text="@string/send_email"
+            android:textColor="#b9b9b9" />
+
+        <TextView
+            android:id="@+id/privacy_policy"
+            style="@style/InfoButtonStyle"
+            android:drawableStart="@drawable/sticker_3rdparty_privacy"
+            android:drawableLeft="@drawable/sticker_3rdparty_privacy"
+            android:text="@string/privacy_policy"
+            android:textColor="#b9b9b9" />
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+</LinearLayout>

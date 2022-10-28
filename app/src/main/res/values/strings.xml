@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">WhatsTool</string>
+    <string name="tagline">WhatsTool\'s latest version 2022 is here to help you download or share friend\'s status in just one click</string>
+    <string name="walkandChat">This feature will set the background layer of the camera in realtime with lesser opacity. Using this app you can see what is going on behind you while chatting with friends.</string>
+    <string name="dot">•</string>
+    <string name="action_whatsdirect">Whats Direct</string>
+    <string name="add_button_content_description">Add sticker pack to WhatsApp</string>
+    <string name="add_to_whatsapp">Add to WhatsApp</string>
+    <string name="details_pack_already_added">Sticker pack added to WhatsApp</string>
+    <string name="tray_image_content_description">Sticker Pack Tray Image</string>
+    <string name="title_activity_sticker_packs_list">My WhatsApp Sticker App</string>
+    <string name="title_activity_sticker_pack_info">Info</string>
+
+    <string name="picture_description">Description</string>
+    <string name="picture_title">Title</string>
+
+    <string name="error_network_no_internet">No Internet connection</string>
+    <string name="error_view_oops">Oops</string>
+    <string name="error_view_retry">RETRY</string>
+    <string name="info_screen_tray_icon">Tray icon</string>
+    <string name="info_send_email_to_prompt">Send email with</string>
+    <string name="install_app_first">Installed application first</string>
+    <string name="more_info_button">More info about sticker pack</string>
+    <string name="no_image_found">No WhatsApp Status Images Found</string>
+    <string name="no_result_found">No result found</string>
+    <string name="no_url">No url</string>
+    <string name="no_videos_found">No WhatsApp Status Videos Found</string>
+    <string name="phone_code">+%s</string>
+    <string name="privacy_policy">Privacy policy</string>
+    <string name="replay">Replay</string>
+    <string name="search_hint">Search…</string>
+    <string name="select_country">Select Country</string>
+    <string name="send_email">Send email</string>
+    <string name="tips_not_wifi">You are currently using the mobile network, the player will continue to consume traffic</string>
+    <string name="tips_not_wifi_cancel">Stop play</string>
+    <string name="tips_not_wifi_confirm">Resume</string>
+    <string name="title_activity_sticker_pack_details_multiple_pack">Sticker Details</string>
+    <string name="title_activity_sticker_pack_details_single_pack">Sticker Pack</string>
+    <string name="view_webpage">View webpage</string>
+    <string name="whatsapp_share">Download Whats Web Scan App https://play.google.com/store/apps/details?id=com.andro.whatswebapp</string>
+
+    <string name="ad_app_id">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="ad_interst_id">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="ad_banner_id">ca-app-pub-3940256099942544/6300978111</string>
+
+    <string name="vpn_on">VPN ON</string>
+    <string name="vpn_off">VPN OFF</string>
+    <string name="connect">Connect</string>
+    <string name="connecting">Connecting</string>
+    <string name="disconnect">Disconnect</string>
+
+    
+</resources>

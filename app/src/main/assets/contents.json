@@ -1,0 +1,1334 @@
+{
+  "android_play_store_link": "https://play.google.com/store/apps/details?id=wastickerapps.stickersforwhatsapp",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "smiles",
+      "name": "Smiles",
+      "publisher": "creative goals",
+      "tray_image_file": "1.webp",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "25.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "Tweety",
+      "name": "Tweety",
+      "publisher": "creative goals",
+      "tray_image_file": "1.webp",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "11",
+      "name": "Meep",
+      "publisher": "creative goals",
+      "tray_image_file": "18.webp",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "18.webp",
+          "emojis": [
+            "🙂",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": [
+            "😍",
+            "😍"
+          ]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": [
+            "😂",
+            "😂"
+          ]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": [
+            "😛",
+            "😛"
+          ]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": [
+            "😶",
+            "😶"
+          ]
+        },
+        {
+          "image_file": "1.webp",
+          "emojis": [
+            "😲",
+            "😲"
+          ]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": [
+            "😱",
+            "😱"
+          ]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": [
+            "😒",
+            "😒"
+          ]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": [
+            "😴",
+            "😴"
+          ]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": [
+            "🤢",
+            "🤢"
+          ]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": [
+            "😫",
+            "😫"
+          ]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": [
+            "😎",
+            "😎"
+          ]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": [
+            "🤔",
+            "🤔"
+          ]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": [
+            "😖",
+            "😖"
+          ]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": [
+            "🤩",
+            "🤩"
+          ]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": [
+            "😬",
+            "😠"
+          ]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": [
+            "😭",
+            "😭"
+          ]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": [
+            "😵",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": [
+            "🤢",
+            "🤢"
+          ]
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": [
+            "🤢",
+            "🤢"
+          ]
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": [
+            "😱",
+            "😱"
+          ]
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": [
+            "😌",
+            "😌"
+          ]
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": [
+            "😓",
+            "😓"
+          ]
+        },
+        {
+          "image_file": "26.webp",
+          "emojis": [
+            "😲",
+            "😲"
+          ]
+        },
+        {
+          "image_file": "27.webp",
+          "emojis": [
+            "😏",
+            "😏"
+          ]
+        },
+        {
+          "image_file": "28.webp",
+          "emojis": [
+            "🤩",
+            "🤩"
+          ]
+        },
+        {
+          "image_file": "29.webp",
+          "emojis": [
+            "😫",
+            "😫"
+          ]
+        },
+        {
+          "image_file": "25.webp",
+          "emojis": [
+            "😚",
+            "😚"
+          ]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": [
+            "😊",
+            "😊"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "arisha_sticker",
+      "name": "Girls Stickers",
+      "publisher": "creative goals",
+      "tray_image_file": "5.webp",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": [
+            "😭",
+            "😭"
+          ]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": [
+            "😘",
+            "😘"
+          ]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": [
+            "😁",
+            "😁"
+          ]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": [
+            "😭",
+            "😭"
+          ]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": [
+            "😭",
+            "😭"
+          ]
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": [
+            "😘",
+            "😘"
+          ]
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "25.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "26.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "27.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "28.webp",
+          "emojis": [
+            "😘",
+            "😘"
+          ]
+        },
+        {
+          "image_file": "30.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "7",
+      "name": "Say Thanks",
+      "publisher": "creative goals",
+      "tray_image_file": "18_idea.webp",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1_idea.webp",
+          "emojis": [
+            "😏",
+            "😏"
+          ]
+        },
+        {
+          "image_file": "2_idea.webp",
+          "emojis": [
+            "😏",
+            "😏"
+          ]
+        },
+        {
+          "image_file": "3_idea.webp",
+          "emojis": [
+            "😏",
+            "😏"
+          ]
+        },
+        {
+          "image_file": "4_idea.webp",
+          "emojis": [
+            "😏",
+            "😏"
+          ]
+        },
+        {
+          "image_file": "5_idea.webp",
+          "emojis": [
+            "😏",
+            "😏"
+          ]
+        },
+        {
+          "image_file": "6_idea.webp",
+          "emojis": [
+            "😏",
+            "😏"
+          ]
+        },
+        {
+          "image_file": "7_idea.webp",
+          "emojis": [
+            "😏",
+            "😏"
+          ]
+        },
+        {
+          "image_file": "8_idea.webp",
+          "emojis": [
+            "😏",
+            "😏"
+          ]
+        },
+        {
+          "image_file": "9_idea.webp",
+          "emojis": [
+            "😏",
+            "😏"
+          ]
+        },
+        {
+          "image_file": "10_idea.webp",
+          "emojis": [
+            "😏",
+            "😏"
+          ]
+        },
+        {
+          "image_file": "11_idea.webp",
+          "emojis": [
+            "😏",
+            "😏"
+          ]
+        },
+        {
+          "image_file": "12_idea.webp",
+          "emojis": [
+            "😏",
+            "😏"
+          ]
+        },
+        {
+          "image_file": "13_idea.webp",
+          "emojis": [
+            "😏",
+            "😏"
+          ]
+        },
+        {
+          "image_file": "14_idea.webp",
+          "emojis": [
+            "😏",
+            "😏"
+          ]
+        },
+        {
+          "image_file": "15_idea.webp",
+          "emojis": [
+            "😏",
+            "😏"
+          ]
+        },
+        {
+          "image_file": "16_idea.webp",
+          "emojis": [
+            "😏",
+            "😏"
+          ]
+        },
+        {
+          "image_file": "17_idea.webp",
+          "emojis": [
+            "😏",
+            "😏"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "6",
+      "name": "Emoji",
+      "publisher": "creative goals",
+      "tray_image_file": "24_icon.webp",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "24_icon.webp",
+          "emojis": [
+            "🤬",
+            "🤬"
+          ]
+        },
+        {
+          "image_file": "13_icon.webp",
+          "emojis": [
+            "😊",
+            "😊"
+          ]
+        },
+        {
+          "image_file": "20_icon.webp",
+          "emojis": [
+            "😉",
+            "😉"
+          ]
+        },
+        {
+          "image_file": "17_icon.webp",
+          "emojis": [
+            "😭",
+            "😭"
+          ]
+        },
+        {
+          "image_file": "16_icon.webp",
+          "emojis": [
+            "😤",
+            "😤"
+          ]
+        },
+        {
+          "image_file": "19_icon.webp",
+          "emojis": [
+            "😂",
+            "😂"
+          ]
+        },
+        {
+          "image_file": "14_icon.webp",
+          "emojis": [
+            "🤣",
+            "🤣"
+          ]
+        },
+        {
+          "image_file": "2_icon.webp",
+          "emojis": [
+            "☺",
+            "☺"
+          ]
+        },
+        {
+          "image_file": "1_icon.webp",
+          "emojis": [
+            "😠",
+            "😠"
+          ]
+        },
+        {
+          "image_file": "3_icon.webp",
+          "emojis": [
+            "😦",
+            "😦"
+          ]
+        },
+        {
+          "image_file": "4_icon.webp",
+          "emojis": [
+            "😕",
+            "😕"
+          ]
+        },
+        {
+          "image_file": "5_icon.webp",
+          "emojis": [
+            "😲",
+            "😲"
+          ]
+        },
+        {
+          "image_file": "6_icon.webp",
+          "emojis": [
+            "🤐",
+            "🤐"
+          ]
+        },
+        {
+          "image_file": "7_icon.webp",
+          "emojis": [
+            "😖",
+            "😖"
+          ]
+        },
+        {
+          "image_file": "8_icon.webp",
+          "emojis": [
+            "😖",
+            "😖"
+          ]
+        },
+        {
+          "image_file": "9_icon.webp",
+          "emojis": [
+            "😕",
+            "😕"
+          ]
+        },
+        {
+          "image_file": "10_icon.webp",
+          "emojis": [
+            "☺",
+            "☺"
+          ]
+        },
+        {
+          "image_file": "11_icon.webp",
+          "emojis": [
+            "😘",
+            "😘"
+          ]
+        },
+        {
+          "image_file": "15_icon.webp",
+          "emojis": [
+            "😨",
+            "😨"
+          ]
+        },
+        {
+          "image_file": "18_icon.webp",
+          "emojis": [
+            "😘",
+            "😘"
+          ]
+        },
+        {
+          "image_file": "12_icon.webp",
+          "emojis": [
+            "🤮",
+            "🤮"
+          ]
+        },
+        {
+          "image_file": "22_icon.webp",
+          "emojis": [
+            "☺",
+            "☺"
+          ]
+        },
+        {
+          "image_file": "23_icon.webp",
+          "emojis": [
+            "😯",
+            "😯"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "bart_simpson",
+      "name": "Bart Simpson",
+      "publisher": "creative goals",
+      "tray_image_file": "10.webp",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "10.webp",
+          "emojis": [
+            "😊",
+            "😋"
+          ]
+        },
+        {
+          "image_file": "29.webp",
+          "emojis": [
+            "😨",
+            "😨"
+          ]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": [
+            "😜",
+            "😜"
+          ]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": [
+            "😁",
+            "😁"
+          ]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": [
+            "😬",
+            "😬"
+          ]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": [
+            "😜",
+            "😜"
+          ]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "1.webp",
+          "emojis": [
+            "😏",
+            "😏"
+          ]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": [
+            "😏",
+            "😏"
+          ]
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "25.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "26.webp",
+          "emojis": [
+            "😴",
+            "😴"
+          ]
+        },
+        {
+          "image_file": "27.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "28.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "30.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "young_cool_couple",
+      "name": "Young & Cool Couple",
+      "publisher": "creative goals",
+      "tray_image_file": "1.webp",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "29.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "30.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "33.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "37.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        }
+      ]
+    }
+  ]
+}

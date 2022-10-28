@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#128C7E</color>
+    <color name="primary">#128C7E</color>
+    <color name="purple_500">#128C7E</color>
+    <color name="purple_700">#128C7E</color>
+    <color name="teal_200">#128C7E</color>
+    <color name="teal_700">#128C7E</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="green">#25D366</color>
+    <color name="grey">#E5E5E5</color>
+    <color name="statusTextColor">#2B2A2A</color>
+    <color name="red">#F82010</color>
+    <color name="colorPrimary">#0fd28e</color>
+    <color name="infoPageBackgroundColor">#ebebeb</color>
+    <color name="colorAccent">#0fd28e</color>
+
+</resources>
